@@ -1,5 +1,5 @@
 {
-  "name": "aleut-print",
+  "name": "@aleut/aleut-print",
   "version": "0.0.3",
   "description": "Simple, reset-like print styles.",
   "main": "_trumps.print.scss",
