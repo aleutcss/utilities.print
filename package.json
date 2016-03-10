@@ -1,5 +1,6 @@
 {
-  "name": "@aleut/utilities.print",
+  "name": "aleut.utilities.print"
+,
   "version": "1.0.0",
   "description": "Simple, reset-like print styles.",
   "main": "_utilities.print.scss",
